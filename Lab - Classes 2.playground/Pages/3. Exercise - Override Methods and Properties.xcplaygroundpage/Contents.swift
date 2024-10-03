@@ -24,7 +24,6 @@ class Spaceship {
     }
 }
 
-
 class Fighter: Spaceship {
     var weapon = ""
     var remainingFirePower = 5
