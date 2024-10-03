@@ -23,6 +23,8 @@ class Spaceship {
         }
     }
 }
+
+print("hi")
 //:  Define a new class `Fighter` that inherits from `Spaceship`. Add a variable property `weapon` that defaults to an empty string and a variable property `remainingFirePower` that defaults to 5.
 class Fighter:Spaceship{
     var weapon:String=""
